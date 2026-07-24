@@ -70,10 +70,10 @@ A execução será considerada concluída quando:
 |----|-----------|
 | CT-001 | Cadastro realizado com sucesso |
 | CT-002 | Cadastro utilizando e-mail já existente |
-| CT-003 | Validação do campo Nome |
-| CT-004 | Campos permanecem preenchidos |
+| CT-003 | Campos permanecem preenchidos após novo cadastro |
+| CT-004 | Validação do campo Nome |
 | CT-005 | Navegação para tela de Login |
-
+| CT-006 | Validação de campos obrigatórios |
 ---
 
 # 8. Riscos

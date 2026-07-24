@@ -35,9 +35,10 @@ Este documento apresenta os resultados obtidos durante a execução dos testes f
 |----|---------------|-----------|
 | CT-001 | Cadastro com dados válidos | ✅ Aprovado |
 | CT-002 | Cadastro utilizando e-mail já existente | ❌ Reprovado |
-| CT-003 | Validação do campo Nome | ❌ Reprovado |
-| CT-004 | Limpeza do formulário após cadastro | ❌ Reprovado |
+| CT-003 | Campos permanecem preenchidos após novo cadastro | ❌ Reprovado |
+| CT-004 | Validação do campo Nome | ❌ Reprovado |
 | CT-005 | Navegação para tela de Login | ❌ Reprovado |
+| CT-006 | Validação de campos obrigatórios | ✅ Aprovado |
 
 ---
 
